@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently studying my postgraduate studies from RMIT University Melbourne, Australia. 
 I'm a computer engineer carrying 2 years of experience with Accenture as a SAP BW/BI development analyst. 
-Experienced in SAP BW/BI/BO Net weaver platform for Business Warehousing and Business Intelligence and SAP S4/HANA platform for BW/BI.
+Experienced in SAP DW/BI/BO Net weaver platform for Business Warehousing and Business Intelligence and SAP S4/HANA platform for DW/BI.
 Skilled in Data Preprocessing, Machine Learning, Data Modeling, Artificial Intelligence, Deep Learning, Computer Vision, Data Visualization and Exploration, Database Managements including Big Data management using Hadoop and AWS EMR.
 Skilled in programming languages like Python, R, Java, C & C++ , front-end languages like HTML, CSS, JavaScript, PHP and Database Query languages like SQL and MongoDB.
 
