@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pranamya.
 
-- 🌱 I’m currently studying my postgraduate studies from RMIT University Melbourne, Australia. 
+- 🌱 I’m a recent graduate with Masters degree in Data Sceince RMIT University Melbourne, Australia. 
 I'm a computer engineer carrying 2 years of experience with Accenture as a SAP DW/BI development analyst. 
 Experienced in SAP DW/BI/BO Net weaver platform for Business Warehousing and Business Intelligence and SAP S4/HANA platform for DW/BI.
 Skilled in Data Preprocessing, Machine Learning, Data Modeling, Artificial Intelligence, Deep Learning, Computer Vision, Data Visualization and Exploration, Database Managements including Big Data management using Hadoop and AWS EMR.
