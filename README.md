@@ -1,10 +1,8 @@
 - 👋 Hi, I’m Pranamya.
 
-- 🌱 I’m a recent graduate with Masters degree in Data Sceince RMIT University Melbourne, Australia. 
-I'm a computer engineer carrying 2 years of experience with Accenture as a SAP DW/BI development analyst. 
-Experienced in SAP DW/BI/BO Net weaver platform for Business Warehousing and Business Intelligence and SAP S4/HANA platform for DW/BI.
-Skilled in Data Preprocessing, Machine Learning, Data Modeling, Artificial Intelligence, Deep Learning, Computer Vision, Data Visualization and Exploration, Database Managements including Big Data management using Hadoop and AWS EMR.
-Skilled in programming languages like Python, R, Java, C & C++ , front-end languages like HTML, CSS, JavaScript, PHP and Database Query languages like SQL and MongoDB.
+- 🌱 I am a driven and ambitious Computer Engineer with a fervent interest in the world of data engineering, data analytics, and data science.
+- My enthusiasm lies in crafting data-driven solutions and unveiling latent patterns within datasets to enhance the efficacy of the business-level decision-making process. I bring four years of relevant industry experience, having worked across diverse business domains like staffing and recruitment, automobile, energy sector, and technology consulting.
+- I am currently employed at Swipejobs as a Data Engineer / Reporting Analyst
 
 - 📫 You can reach me through an email on pranamyakorde17@gmial.com or else connect me on LinkedIn at www.linkedin.com/in/pranmayakorde17
 
